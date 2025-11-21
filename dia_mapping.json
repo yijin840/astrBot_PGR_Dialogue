@@ -177,5 +177,14 @@
       "卡穆"
     ],
     "mapping": "Kamu.json"
+  },
+  {
+    "keyword": [
+      "赛琳娜",
+      "赛琳娜·岚音",
+      "赛琳娜·幻奏",
+      "赛琳娜·希声"
+    ],
+    "mapping": "Selena.json"
   }
 ]
