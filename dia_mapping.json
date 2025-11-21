@@ -1,0 +1,181 @@
+[
+  {
+    "keyword": [
+      "战双"
+    ],
+    "mapping": "PGR_text_list.json"
+  },
+  {
+    "keyword": [
+      "小露",
+      "火露",
+      "露西亚"
+    ],
+    "mapping": "Lucia_text.json"
+  },
+  {
+    "keyword": [
+      "鱼鱼",
+      "傻鱼",
+      "拉弥亚"
+    ],
+    "mapping": "Lamia.json"
+  },
+  {
+    "keyword": [
+      "莉莉丝"
+    ],
+    "mapping": "Lilith.json"
+  },
+  {
+    "keyword": [
+      "七实",
+      "娜娜米",
+      "nanami"
+    ],
+    "mapping": "Nanami.json"
+  },
+  {
+    "keyword": [
+      "慈悲者",
+      "伊什梅尔",
+      "小梅"
+    ],
+    "mapping": "Ishmael.json"
+  },
+  {
+    "keyword": [
+      "露娜",
+      "小姨子"
+    ],
+    "mapping": "Luna.json"
+  },
+  {
+    "keyword": [
+      "曲"
+    ],
+    "mapping": "Qu.json",
+    "match_mode": "exact",
+    "desc": "原代码要求全等匹配，已设置为 exact 模式"
+  },
+  {
+    "keyword": [
+      "启明"
+    ],
+    "mapping": "Qu.json"
+  },
+  {
+    "keyword": [
+      "丽芙",
+      "极昼"
+    ],
+    "mapping": "Liv.json"
+  },
+  {
+    "keyword": [
+      "亚里莎",
+      "回音"
+    ],
+    "mapping": "Arisa.json"
+  },
+  {
+    "keyword": [
+      "布偶熊"
+    ],
+    "mapping": "Teddy.json"
+  },
+  {
+    "keyword": [
+      "三七",
+      "21号"
+    ],
+    "mapping": "Sanqi.json"
+  },
+  {
+    "keyword": [
+      "含英"
+    ],
+    "mapping": "Hanying.json"
+  },
+  {
+    "keyword": [
+      "万事"
+    ],
+    "mapping": "Wanshi.json"
+  },
+  {
+    "keyword": [
+      "超刻",
+      "里哥"
+    ],
+    "mapping": "Chaoke.json"
+  },
+  {
+    "keyword": [
+      "渡边",
+      "牢渡"
+    ],
+    "mapping": "Dubian.json"
+  },
+  {
+    "keyword": [
+      "雷毛",
+      "蚯蚓"
+    ],
+    "mapping": "Alpha.json"
+  },
+  {
+    "keyword": [
+      "比安卡",
+      "深痕"
+    ],
+    "mapping": "Bianca.json"
+  },
+  {
+    "keyword": [
+      "暗卡",
+      "卡列"
+    ],
+    "mapping": "Karenina.json"
+  },
+  {
+    "keyword": [
+      "薇拉",
+      "雷薇"
+    ],
+    "mapping": "Vera.json"
+  },
+  {
+    "keyword": [
+      "诺安"
+    ],
+    "mapping": "Noah.json"
+  },
+  {
+    "keyword": [
+      "罗兰"
+    ],
+    "mapping": "Lolan.json"
+  },
+  {
+    "keyword": [
+      "神威",
+      "暗能"
+    ],
+    "mapping": "Shenwei.json"
+  },
+  {
+    "keyword": [
+      "库洛姆",
+      "库队",
+      "荣光"
+    ],
+    "mapping": "Kurom.json"
+  },
+  {
+    "keyword": [
+      "卡穆"
+    ],
+    "mapping": "Kamu.json"
+  }
+]
